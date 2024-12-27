@@ -1,4 +1,3 @@
-[![Health Check](../../actions/workflows/health-check.yml/badge.svg)](../../actions/workflows/health-check.yml)
 
 # Statsig's Open-Source Status Page
 
@@ -6,11 +5,11 @@ We tried various Status Pages out there, and built this as a fun little hobby pr
 
 ## Demo
 
-- https://status.statsig.com
+- [https://frannieyang.github.io/fy-statuspage/](https://frannieyang.github.io/fy-statuspage/)
 
 ## Setup instructions
 
-1. Fork the [template repository](https://github.com/statsig-io/statuspage/).
+1. Fork the [template repository](https://github.com/frannieyang/fy-statuspage).
 2. Update `urls.cfg` to include your urls.
 
 ```cfg
@@ -44,7 +43,3 @@ This project uses GitHub actions to wake up every hour and run a shell script (`
 Send in a PR - we'd love to integrate your ideas.
 
 ## In case...
-
-You are looking for a developer friendly Feature flags, and A/B experimentation service for your product, check out: https://www.statsig.com
-
-![Statsig status page](https://user-images.githubusercontent.com/74588208/146078161-778fcb99-4a59-4e39-9fc0-abef18d5ac52.png)
